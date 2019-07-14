@@ -1,88 +1,88 @@
-﻿<TacOLanguageData language="简体中文">
-  <token key="filtermarkers" value="显示标记过滤选项"/>
-  <token key="togglepoidistance" value="显示POI距离"/>
-  <token key="toggleherdicons" value="屏幕边缘显示图标"/>
-  <token key="toggledrawwvwnames" value="显示wvw物品名称"/>
-  <token key="togglefadeoutbubble" value="在角色附近的线路透明度降低"/>
-  <token key="toggletactical" value="显示标记路线"/>
-  <token key="togglerangecircles" value="显示范围圈"/>
-  <token key="rangevisibility" value="范围圈透明度"/>
-  <token key="toggleranges" value="显示距离"/>
-  <token key="toggleinfoline" value="显示调试文本"/>
-  <token key="togglecompass" value="显示指南针"/>
-  <token key="toggleloctimers" value="显示本地时间"/>
-  <token key="togglehpgrid" value="显示血条网格"/>
-  <token key="toggleupdatecheck" value="自动检查TacO版本更新"/>
-  <token key="togglemousehighlight" value="鼠标指针高亮显示"/>
-  <token key="togglemouseoutline" value="鼠标指针高亮显示加粗"/>
-  <token key="mousecolor" value="鼠标指针高亮显示颜色"/>
-  <token key="red" value="红"/>
-  <token key="lightred" value="浅红"/>
+﻿<TacOLanguageData language="繁體中文">
+  <token key="filtermarkers" value="標記選擇"/>
+  <token key="togglepoidistance" value="POI距離"/>
+  <token key="toggleherdicons" value="屛幕邊緣顯示圖標"/>
+  <token key="toggledrawwvwnames" value="顯示wvw物品名稱"/>
+  <token key="togglefadeoutbubble" value="在角色附近的線路透明度降低"/>
+  <token key="toggletactical" value="顯示標記路線"/>
+  <token key="togglerangecircles" value="顯示範圍圈"/>
+  <token key="rangevisibility" value="範圍圈透明度"/>
+  <token key="toggleranges" value="顯示距離"/>
+  <token key="toggleinfoline" value="顯示調試文本"/>
+  <token key="togglecompass" value="顯示指南針"/>
+  <token key="toggleloctimers" value="顯示本地時間"/>
+  <token key="togglehpgrid" value="顯示血條網格"/>
+  <token key="toggleupdatecheck" value="自動檢測TacO版本更新"/>
+  <token key="togglemousehighlight" value="鼠標指針高亮顯示"/>
+  <token key="togglemouseoutline" value="鼠標指針高亮顯示加粗"/>
+  <token key="mousecolor" value="鼠標指針高亮顯示色彩"/>
+  <token key="red" value="紅"/>
+  <token key="lightred" value="淺紅"/>
   <token key="black" value="黑"/>
   <token key="gray" value="灰"/>
-  <token key="blue" value="蓝"/>
-  <token key="lightblue" value="浅蓝"/>
-  <token key="green" value="绿"/>
-  <token key="lightgreen" value="浅绿"/>
-  <token key="cyan" value="青"/>
-  <token key="lightcyan" value="浅青"/>
-  <token key="magenta" value="品红"/>
-  <token key="lightmagenta" value="浅品红"/>
+  <token key="blue" value="藍"/>
+  <token key="lightblue" value="淺藍"/>
+  <token key="green" value="綠"/>
+  <token key="lightgreen" value="淺綠"/>
+  <token key="cyan" value="靑"/>
+  <token key="lightcyan" value="淺靑"/>
+  <token key="magenta" value="品紅"/>
+  <token key="lightmagenta" value="淺品紅"/>
   <token key="brown" value="棕"/>
-  <token key="yellow" value="黄"/>
-  <token key="lightgray" value="浅灰"/>
+  <token key="yellow" value="黃"/>
+  <token key="lightgray" value="淺灰"/>
   <token key="white" value="白"/>
-  <token key="openmaptimer" value="打开地图事件计时器窗口"/>
-  <token key="closemaptimer" value="关闭地图事件计时器窗口"/>
-  <token key="compactmaptimer" value="紧凑型地图事件计时器"/>
-  <token key="configmaptimer" value="地图事件计时器选项"/>
-  <token key="opentswindow" value="打开TS窗口"/>
-  <token key="closetswindow" value="关闭TS窗口"/>
-  <token key="openmarkereditor" value="打开标记编辑器"/>
-  <token key="closemarkereditor" value="关闭标记编辑器"/>
-  <token key="autohidemarkereditor" value="自动隐藏标记编辑器"/>
-  <token key="opennotepad" value="打开记事本"/>
-  <token key="closenotepad" value="关闭记事本"/>
-  <token key="togglewindoweditmode" value="窗口编辑模式"/>
-  <token key="hideonload" value="加载地图时隐藏TacO"/>
-  <token key="closewithgw2" value="退出Gw2时关闭Taco"/>
-  <token key="rebindkeys" value="重新绑定密钥"/>
-  <token key="action_no_key_bound" value="[没有绑定密钥]"/>
+  <token key="openmaptimer" value="打開地圖事件計時器界面"/>
+  <token key="closemaptimer" value="關閉地圖事件計時器界面"/>
+  <token key="compactmaptimer" value="緊湊型界面顯示"/>
+  <token key="configmaptimer" value="地圖事件計時器選項"/>
+  <token key="opentswindow" value="打開Teamspeak界面"/>
+  <token key="closetswindow" value="關閉Teamspeak界面"/>
+  <token key="openmarkereditor" value="打開標記編輯器"/>
+  <token key="closemarkereditor" value="關閉標記編輯器"/>
+  <token key="autohidemarkereditor" value="自動隱藏標記編輯器"/>
+  <token key="opennotepad" value="打開記事本"/>
+  <token key="closenotepad" value="關閉記事本"/>
+  <token key="togglewindoweditmode" value="界面編輯模式"/>
+  <token key="hideonload" value="加載地圖時隱藏TacO"/>
+  <token key="closewithgw2" value="退出Gw2時關閉Taco"/>
+  <token key="rebindkeys" value="重新連接密碼"/>
+  <token key="action_no_key_bound" value="[沒有連接密碼]"/>
   <token key="no_action" value="不激活"/>
-  <token key="add_marker" value="新增标记"/>
-  <token key="remove_marker" value="删除标记"/>
-  <token key="action_key" value="激活密钥"/>
-  <token key="edit_notepad" value="标记记事本"/>
-  <token key="*toggle_trail_recording" value="开始/停止跟踪记录"/>
-  <token key="*pause_trail_recording" value="暂停/继续跟踪记录"/>
-  <token key="*remove_last_trail" value="删除最后一个路径段"/>
-  <token key="*resume_trail" value="通过创建新部分恢复跟踪"/>
-  <token key="apikeys" value="API密钥"/>
-  <token key="gw2apikey" value="Gw2 API密钥"/>
-  <token key="ts3controlplugin" value="TS3 密钥"/>
-  <token key="openraidprogress" value="打开十人本进度窗口"/>
-  <token key="closeraidprogress" value="关闭十人本进度窗口"/>
-  <token key="opendungeonprogress" value="打开老八本进度窗口"/>
-  <token key="closedungeonprogress" value="关闭老八本进度窗口"/>
-  <token key="abouttaco" value="联系信息（关于）"/>
-  <token key="getnewbuild" value="获取新版本"/>
+  <token key="add_marker" value="新增標記"/>
+  <token key="remove_marker" value="刪除標記"/>
+  <token key="action_key" value="激活密碼"/>
+  <token key="edit_notepad" value="標記記事本"/>
+  <token key="*toggle_trail_recording" value="開始/停止跟踪記錄"/>
+  <token key="*pause_trail_recording" value="暫停/繼續跟踪記錄"/>
+  <token key="*remove_last_trail" value="刪除最後一個路徑段"/>
+  <token key="*resume_trail" value="通過創建新部分恢復跟踪"/>
+  <token key="apikeys" value="API密碼"/>
+  <token key="gw2apikey" value="Gw2 API密碼"/>
+  <token key="ts3controlplugin" value="Teamspeak 密碼"/>
+  <token key="openraidprogress" value="打開十人本進度界面"/>
+  <token key="closeraidprogress" value="關閉十人本進度界面"/>
+  <token key="opendungeonprogress" value="打開老八本進度界面"/>
+  <token key="closedungeonprogress" value="關閉老八本進度界面"/>
+  <token key="abouttaco" value="聯繫信息(關於)"/>
+  <token key="getnewbuild" value="獲取新版本"/>
   <token key="exittaco" value="退出TacO"/>
   <token key="waitingforapi" value="等待GW2 api..."/>
-  <token key="apierror1" value="GW2 API 错误"/>
-  <token key="apierror2" value="API错误"/>
-  <token key="apierror3_progression" value="API无效"/>
-  <token key="apierror4_progression" value="无访问权限"/>
-  <token key="apikeynotset1" value="你需要设置Gw2 API密钥"/>
-  <token key="apikeynotset2" value="在TacO菜单中"/>
+  <token key="apierror1" value="GW2 API 錯誤"/>
+  <token key="apierror2" value="API錯誤"/>
+  <token key="apierror3_progression" value="API無效"/>
+  <token key="apierror4_progression" value="無訪問權限"/>
+  <token key="apikeynotset1" value="你需要設置Gw2 API密碼"/>
+  <token key="apikeynotset2" value="在TacO菜單中"/>
   <token key="ts3_clientquery_plugin" value="TS3 ClientQuery Plugin"/>
   <token key="guild_wars_2" value="Guild Wars 2"/>
-  <token key="new_build" value="TacO有新版本出现！"/>
-  <token key="press_to_bind" value="按下需要更改绑定的键"/>
-  <token key="enter_api" value="输入你的"/>
-  <token key="below_and_press" value="API密钥然后按回车键："/>
-  <token key="ts3_help_1" value="你可以找到你的密钥在TS3的"/>
+  <token key="new_build" value="TacO有新版本出現！"/>
+  <token key="press_to_bind" value="按下需要更改連接的鍵"/>
+  <token key="enter_api" value="輸入你的"/>
+  <token key="below_and_press" value="API密鑰然後按回車鍵:"/>
+  <token key="ts3_help_1" value="你可以找到你的密碼在TS3的"/>
   <token key="ts3_help_2" value="Tools -> Options -> Addons -> ClientQuery -> Settings"/>
-  <token key="gw2_api_help_1" value="你可以创建一个API密钥在"/>
+  <token key="gw2_api_help_1" value="你可以創建一個API密碼在"/>
   <token key="compassnorth" value="N"/>
   <token key="compasseast" value="E"/>
   <token key="compasssouth" value="S"/>
@@ -90,17 +90,17 @@
   <token key="ts3authfail1" value="TS3 Authentication failed."/>
   <token key="ts3authfail2" value="The TS3 API key provided is"/>
   <token key="ts3authfail3" value="invalid. Please set a valid"/>
-  <token key="ts3authfail4" value="在TacO菜单中"/>
+  <token key="ts3authfail4" value="在TacO菜單中"/>
   <token key="ts3nokeyset1" value="TS3 Authentication failed."/>
   <token key="ts3nokeyset2" value="You need to set a TS3 API key"/>
-  <token key="ts3nokeyset3" value="在TacO菜单中"/>
+  <token key="ts3nokeyset3" value="在TacO菜單中"/>
   <token key="action" value="激活"/>
-  <token key="currently_bound" value="当前绑定的键"/>
-  <token key="tacosettings" value="TacO设置"/>
-  <token key="language" value="语言"/>
+  <token key="currently_bound" value="當前連接的鍵"/>
+  <token key="tacosettings" value="TacO設置"/>
+  <token key="language" value="語言"/>
 
   <token key="wurm_tunnel" value="泥塘"/>
-  <token key="airport" value="飞船"/>
+  <token key="airport" value="飛船"/>
   <token key="thunder_hollow_reactor" value="Thunder Hollow Reactor"/>
   <token key="forge" value="Forge"/>
   <token key="overgrown_fane_reactor" value="Overgrown Fane Reactor"/>
