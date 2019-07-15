@@ -118,8 +118,10 @@ Author : Snowy1794 - ShinyGaga - ReActif
     <token key="compasssouth"                value="南"/>
     <token key="compasswest"                 value="西"/>
 
+    <!-- ALL WVW TEXT MUST STAY IN LATINS CHARACTERS ! -->
+
     <!-- EDGE OF THE MISTS -->
-    <token key="airport"                     value="飛船"/>
+    <token key="airport"                     value="Airport"/>
     <token key="altar"                       value="Altar"/>
     <token key="arid_fortress"               value="Arid Fortress"/>
     <token key="arid_fortress_reactor"       value="Arid Fortress Reactor"/>
@@ -139,7 +141,7 @@ Author : Snowy1794 - ShinyGaga - ReActif
     <token key="tytone_perch"                value="Tytone Perch"/>
     <token key="tytone_perch_reactor"        value="Tytone Perch Reactor"/>
     <token key="workshop"                    value="Workshop"/>
-    <token key="wurm_tunnel"                 value="泥塘"/>
+    <token key="wurm_tunnel"                 value="Wurm Tunnel"/>
 
     <!-- ETERNAL BATTLEGROUNDS -->
     <token key="aldon_s_ledge"               value="Aldon's Ledge"/>
