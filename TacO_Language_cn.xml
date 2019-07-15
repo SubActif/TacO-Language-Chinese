@@ -100,6 +100,7 @@ Author : Snowy1794 - ShinyGaga
 
 	<!-- INFORMATION -->
 	<token key="getnewbuild"                 value="獲取新版本"/>
+	<!-- The 3 next line MUST stay with English characters ! -->
 	<token key="new_build_txt1"              value="There have been"/>
 	<token key="new_build_txt2"              value="new builds of GW2 TacO released since you last updated!"/>
 	<token key="multiclientwarning"          value="GW2 TacO doesn't support multiboxing."/>
